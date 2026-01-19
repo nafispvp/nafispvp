@@ -9,7 +9,7 @@ Hi, I'm Nafis
 # About Me <br>
 I'm a Computer Science undergraduate with a strong interest in building efficient, scalable, and meaningful software. <br>
 I enjoy solving problems, leaning new technologies, and applying theoretical CS concepts to real-world projects.
-- 🔍Interested in: Algorithms, Systems, AI, etc.
+- 🔍Interested in: Algorithms, Systems, AI, Animation, etc.
 - 🚀Actively improving my skills through projects and practice
 
 # 🎓Education <br>
