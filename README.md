@@ -1,16 +1,40 @@
-## Hi there 👋
+# nafispvp.readme
 
-<!--
-**nafispvp/nafispvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!! 🎊 <br>
+Hi, I'm Nafis
+---
+- 🎓Computer Science Student <br>
+- 💻Aspiring Computer Science in Graphics and Multimedia Software first year student
+- 📍University Teknologi Malaysia
+# About Me <br>
+I'm a Computer Science undergraduate with a strong interest in building efficient, scalable, and meaningful software. <br>
+I enjoy solving problems, leaning new technologies, and applying theoretical CS concepts to real-world projects.
+- 🔍Interested in: Algorithms, Systems, AI, etc.
+- 🚀Actively improving my skills through projects and practice
 
-Here are some ideas to get you started:
+# 🎓Education <br>
+- Kolej Matrikulasi Perlis, Arau, Perlis (2023-2024) <br>
+   -> Course: Physical Science <br>
+   -> CGPA: 3.75 <br>
+   -> MUET: 4.0 <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Universiti Teknologi Malaysia (2025-present) <br>
+   -> Course: Bachelor of Computer Science (Graphics & Multimedia Software)
+
+# 🛠️Skills & Tools
+- Languages: C++, Python, Java
+- Tools: Github, JGrasp, Pycharm, Dev C++
+- Spoken Language: Malay, English
+
+# 📚Currently Studying <br>
+[SECP1513-Technology-Information-System] <br>
+SECJ1013-Programming-Technique-1 <br>
+SECI1013-Discreate-Structure <br>
+SECR1013-Digital-Logic <br>
+ULRS1032-Integrity and Anti-Corruption <br>
+
+# 📫Connect With Me
+🔗 Linkedln : <br>
+✉️ Gmail : nafispvp@gmail.com <br>
+💼 Github : nafispvp <br>
+💻 Website : E-Portfolio
