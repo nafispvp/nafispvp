@@ -8,7 +8,7 @@ Hi, I'm Nafis
 - 📍University Teknologi Malaysia
 # About Me <br>
 I'm a Computer Science undergraduate with a strong interest in building efficient, scalable, and meaningful software. <br>
-I enjoy solving problems, leaning new technologies, and applying theoretical CS concepts to real-world projects.
+I enjoy solving problems, learning new technologies, and applying theoretical CS concepts to real-world projects.
 - 🔍Interested in: Algorithms, Systems, AI, Animation, etc.
 - 🚀Actively improving my skills through projects and practice
 
@@ -23,8 +23,11 @@ I enjoy solving problems, leaning new technologies, and applying theoretical CS 
 
 # 🛠️Skills & Tools
 - Languages: C++, Python, Java
-- Tools: Github, JGrasp, Pycharm, Dev C++
+- Tools: Github, JGrasp, Pycharm, Dev C++, Blender
 - Spoken Language: Malay, English
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+</p>
 
 # 📚Currently Studying <br>
 [SECP1513-Technology-Information-System](https://github.com/nafispvp/Technology-Information-System.md) <br>
