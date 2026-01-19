@@ -36,5 +36,4 @@ I enjoy solving problems, leaning new technologies, and applying theoretical CS 
 # 📫Connect With Me
 🔗 Linkedln : https://www.linkedin.com/in/nafis-hizam-974b6b3a6/ <br>
 ✉️ Gmail : nafispvp@gmail.com <br>
-💼 Github : nafispvp <br>
-💻 Website : E-Portfolio
+💼 Github : [nafispvp](https://github.com/nafispvp) <br>
