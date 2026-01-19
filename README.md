@@ -27,11 +27,11 @@ I enjoy solving problems, leaning new technologies, and applying theoretical CS 
 - Spoken Language: Malay, English
 
 # 📚Currently Studying <br>
-[SECP1513-Technology-Information-System] <br>
-SECJ1013-Programming-Technique-1 <br>
-SECI1013-Discreate-Structure <br>
-SECR1013-Digital-Logic <br>
-ULRS1032-Integrity and Anti-Corruption <br>
+[SECP1513-Technology-Information-System](https://github.com/nafispvp/Technology-Information-System.md) <br>
+[SECJ1013-Programming-Technique-1](https://github.com/nafispvp/Programming-Technique-I.md) <br>
+[SECI1013-Discreate-Structure](https://github.com/nafispvp/Discrete-Structure.md) <br>
+[SECR1013-Digital-Logic](https://github.com/nafispvp/Digital-Logic.md) <br>
+[ULRS1032-Integrity-and-Anti-Corruption] <br>
 
 # 📫Connect With Me
 🔗 Linkedln : <br>
