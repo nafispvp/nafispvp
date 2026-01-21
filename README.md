@@ -10,7 +10,7 @@ Hi, I'm Nafis
 I'm a Computer Science undergraduate with a strong interest in building efficient, scalable, and meaningful software. <br>
 I enjoy solving problems, learning new technologies, and applying theoretical CS concepts to real-world projects.
 - 🔍Interested in: Algorithms, Systems, AI, Animation, etc.
-- 🚀Actively improving my skills through projects and practice
+- 🚀Actively improving my skills on 3D animation using Blender
 
 # 🎓Education <br>
 - Kolej Matrikulasi Perlis, Arau, Perlis (2023-2024) <br>
@@ -20,6 +20,11 @@ I enjoy solving problems, learning new technologies, and applying theoretical CS
 
 - Universiti Teknologi Malaysia (2025-present) <br>
    -> Course: Bachelor of Computer Science (Graphics & Multimedia Software)
+
+# 🏅Achievement <br>
+- Participated in Digital Storytelling Animation (National)
+- 3rd Place on 3D Printing competition
+- Handling a workshop teaching 3D animation on Blender
 
 # 🛠️Skills & Tools
 - Languages: C++, Python, Java
