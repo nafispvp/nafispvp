@@ -35,7 +35,7 @@ I enjoy solving problems, learning new technologies, and applying theoretical CS
 # 📚Currently Studying <br>
 [SECP1513-Technology-Information-System](https://github.com/nafispvp/Technology-Information-System.md) <br>
 [SECJ1013-Programming-Technique-1](https://github.com/nafispvp/Programming-Technique-I.md) <br>
-[SECI1013-Discreate-Structure](https://github.com/nafispvp/Discrete-Structure.md) <br>
+[SECI1013-Discrete-Structure](https://github.com/nafispvp/Discrete-Structure.md) <br>
 [SECR1013-Digital-Logic](https://github.com/nafispvp/Digital-Logic.md) <br>
 [ULRS1032-Integrity-and-Anti-Corruption](https://github.com/nafispvp/Integrity-and-Anti-Corruption.md/blob/main/README.md) <br>
 
