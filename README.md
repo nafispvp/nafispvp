@@ -34,7 +34,7 @@ I enjoy solving problems, learning new technologies, and applying theoretical CS
 [SECJ1013-Programming-Technique-1](https://github.com/nafispvp/Programming-Technique-I.md) <br>
 [SECI1013-Discreate-Structure](https://github.com/nafispvp/Discrete-Structure.md) <br>
 [SECR1013-Digital-Logic](https://github.com/nafispvp/Digital-Logic.md) <br>
-[ULRS1032-Integrity-and-Anti-Corruption] <br>
+[ULRS1032-Integrity-and-Anti-Corruption](https://github.com/nafispvp/Integrity-and-Anti-Corruption.md/blob/main/README.md) <br>
 
 # 📫Connect With Me
 🔗 Linkedln : https://www.linkedin.com/in/nafis-hizam-974b6b3a6/ <br>
