@@ -1,5 +1,3 @@
-# nafispvp.readme
-
 # Welcome!! 🎊 <br>
 Hi, I'm Nafis
 ---
